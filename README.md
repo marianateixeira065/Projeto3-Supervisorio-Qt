@@ -32,4 +32,15 @@ O projeto é composto por três módulos que se comunicam através da porta TCP 
 - **Gráfico Customizado (Classe Plotter):** Um widget promovido, construído do zero, que ajusta automaticamente a escala (X e Y) e plota as linhas ligando os pontos de dados recebidos dinamicamente no evento de pintura (`paintEvent`).
 
 ---
+## 📸 Demonstração Visual
 
+*(Professor, abaixo estão as telas do sistema em funcionamento integrado)*
+
+### Visão Geral do Sistema (Servidor, Produtor e Consumidor)
+![Visão Geral](<img width="1918" height="1015" alt="Captura de tela 2026-07-06 092950" src="https://github.com/user-attachments/assets/8b570429-f90f-4da7-95ee-e88f5ad9dda8" />)
+
+### Detalhe do Gráfico (Consumidor)
+![Gráfico Consumidor](<img width="1918" height="1005" alt="image" src="https://github.com/user-attachments/assets/9d86b09f-4304-47ad-ab1e-f755b5f3c6c1" />
+)
+
+---
